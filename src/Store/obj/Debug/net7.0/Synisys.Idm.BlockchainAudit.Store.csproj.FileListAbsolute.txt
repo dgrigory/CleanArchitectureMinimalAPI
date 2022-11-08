@@ -1,0 +1,17 @@
+/Users/david.grigoryan/source/repos/local/net/Synisys.Idm.BlockchainAudit/src/Synisys.Idm.BlockchainAudit.Store/bin/Debug/net7.0/Synisys.Idm.BlockchainAudit.Store.deps.json
+/Users/david.grigoryan/source/repos/local/net/Synisys.Idm.BlockchainAudit/src/Synisys.Idm.BlockchainAudit.Store/bin/Debug/net7.0/Synisys.Idm.BlockchainAudit.Store.dll
+/Users/david.grigoryan/source/repos/local/net/Synisys.Idm.BlockchainAudit/src/Synisys.Idm.BlockchainAudit.Store/bin/Debug/net7.0/Synisys.Idm.BlockchainAudit.Store.pdb
+/Users/david.grigoryan/source/repos/local/net/Synisys.Idm.BlockchainAudit/src/Synisys.Idm.BlockchainAudit.Store/obj/Debug/net7.0/Synisys.Idm.BlockchainAudit.Store.csproj.AssemblyReference.cache
+/Users/david.grigoryan/source/repos/local/net/Synisys.Idm.BlockchainAudit/src/Synisys.Idm.BlockchainAudit.Store/obj/Debug/net7.0/Synisys.Idm.BlockchainAudit.Store.GeneratedMSBuildEditorConfig.editorconfig
+/Users/david.grigoryan/source/repos/local/net/Synisys.Idm.BlockchainAudit/src/Synisys.Idm.BlockchainAudit.Store/obj/Debug/net7.0/Synisys.Idm.BlockchainAudit.Store.AssemblyInfoInputs.cache
+/Users/david.grigoryan/source/repos/local/net/Synisys.Idm.BlockchainAudit/src/Synisys.Idm.BlockchainAudit.Store/obj/Debug/net7.0/Synisys.Idm.BlockchainAudit.Store.AssemblyInfo.cs
+/Users/david.grigoryan/source/repos/local/net/Synisys.Idm.BlockchainAudit/src/Synisys.Idm.BlockchainAudit.Store/obj/Debug/net7.0/Synisys.Idm.BlockchainAudit.Store.csproj.CoreCompileInputs.cache
+/Users/david.grigoryan/source/repos/local/net/Synisys.Idm.BlockchainAudit/src/Synisys.Idm.BlockchainAudit.Store/obj/Debug/net7.0/Synisys.Idm.BlockchainAudit.Store.dll
+/Users/david.grigoryan/source/repos/local/net/Synisys.Idm.BlockchainAudit/src/Synisys.Idm.BlockchainAudit.Store/obj/Debug/net7.0/refint/Synisys.Idm.BlockchainAudit.Store.dll
+/Users/david.grigoryan/source/repos/local/net/Synisys.Idm.BlockchainAudit/src/Synisys.Idm.BlockchainAudit.Store/obj/Debug/net7.0/Synisys.Idm.BlockchainAudit.Store.pdb
+/Users/david.grigoryan/source/repos/local/net/Synisys.Idm.BlockchainAudit/src/Synisys.Idm.BlockchainAudit.Store/obj/Debug/net7.0/ref/Synisys.Idm.BlockchainAudit.Store.dll
+/Users/david.grigoryan/source/repos/local/net/Synisys.Idm.BlockchainAudit/src/Synisys.Idm.BlockchainAudit.Store/bin/Debug/net7.0/Synisys.Idm.BlockchainAudit.Common.dll
+/Users/david.grigoryan/source/repos/local/net/Synisys.Idm.BlockchainAudit/src/Synisys.Idm.BlockchainAudit.Store/bin/Debug/net7.0/Synisys.Idm.BlockchainAudit.Domain.dll
+/Users/david.grigoryan/source/repos/local/net/Synisys.Idm.BlockchainAudit/src/Synisys.Idm.BlockchainAudit.Store/bin/Debug/net7.0/Synisys.Idm.BlockchainAudit.Domain.pdb
+/Users/david.grigoryan/source/repos/local/net/Synisys.Idm.BlockchainAudit/src/Synisys.Idm.BlockchainAudit.Store/bin/Debug/net7.0/Synisys.Idm.BlockchainAudit.Common.pdb
+/Users/david.grigoryan/source/repos/local/net/Synisys.Idm.BlockchainAudit/src/Synisys.Idm.BlockchainAudit.Store/obj/Debug/net7.0/Synisys.Idm.BlockchainAudit.Store.csproj.CopyComplete

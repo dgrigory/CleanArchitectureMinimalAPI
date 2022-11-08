@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{3FDB3530-F8FF-48EE-9755-0A97BDA6A110}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/Reader/Contracts/Requests/GetAuditItemsRequest.cs">
+    <Files>
+      <File FileName="src/Reader/Reader.csproj" Line="19" Column="11" />
+      <File FileName="src/Reader/Contracts/Requests/GetAuditItemsRequest.cs" Line="7" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Synisys.Idm.BlockchainAudit" expanded="True">
+            <Node name="src" expanded="True">
+              <Node name="Reader" expanded="True">
+                <Node name="Contracts" expanded="True">
+                  <Node name="Requests" expanded="True">
+                    <Node name="GetAuditItemsRequest.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.src.Reader PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

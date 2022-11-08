@@ -1,0 +1,17 @@
+/Users/david.grigoryan/source/repos/local/net/CleanArchitectureMinimalAPi/src/Store/bin/Debug/net7.0/Store.deps.json
+/Users/david.grigoryan/source/repos/local/net/CleanArchitectureMinimalAPi/src/Store/bin/Debug/net7.0/Store.dll
+/Users/david.grigoryan/source/repos/local/net/CleanArchitectureMinimalAPi/src/Store/bin/Debug/net7.0/Store.pdb
+/Users/david.grigoryan/source/repos/local/net/CleanArchitectureMinimalAPi/src/Store/bin/Debug/net7.0/Common.dll
+/Users/david.grigoryan/source/repos/local/net/CleanArchitectureMinimalAPi/src/Store/bin/Debug/net7.0/Domain.dll
+/Users/david.grigoryan/source/repos/local/net/CleanArchitectureMinimalAPi/src/Store/bin/Debug/net7.0/Domain.pdb
+/Users/david.grigoryan/source/repos/local/net/CleanArchitectureMinimalAPi/src/Store/bin/Debug/net7.0/Common.pdb
+/Users/david.grigoryan/source/repos/local/net/CleanArchitectureMinimalAPi/src/Store/obj/Debug/net7.0/Store.csproj.AssemblyReference.cache
+/Users/david.grigoryan/source/repos/local/net/CleanArchitectureMinimalAPi/src/Store/obj/Debug/net7.0/Store.GeneratedMSBuildEditorConfig.editorconfig
+/Users/david.grigoryan/source/repos/local/net/CleanArchitectureMinimalAPi/src/Store/obj/Debug/net7.0/Store.AssemblyInfoInputs.cache
+/Users/david.grigoryan/source/repos/local/net/CleanArchitectureMinimalAPi/src/Store/obj/Debug/net7.0/Store.AssemblyInfo.cs
+/Users/david.grigoryan/source/repos/local/net/CleanArchitectureMinimalAPi/src/Store/obj/Debug/net7.0/Store.csproj.CoreCompileInputs.cache
+/Users/david.grigoryan/source/repos/local/net/CleanArchitectureMinimalAPi/src/Store/obj/Debug/net7.0/Store.csproj.CopyComplete
+/Users/david.grigoryan/source/repos/local/net/CleanArchitectureMinimalAPi/src/Store/obj/Debug/net7.0/Store.dll
+/Users/david.grigoryan/source/repos/local/net/CleanArchitectureMinimalAPi/src/Store/obj/Debug/net7.0/refint/Store.dll
+/Users/david.grigoryan/source/repos/local/net/CleanArchitectureMinimalAPi/src/Store/obj/Debug/net7.0/Store.pdb
+/Users/david.grigoryan/source/repos/local/net/CleanArchitectureMinimalAPi/src/Store/obj/Debug/net7.0/ref/Store.dll

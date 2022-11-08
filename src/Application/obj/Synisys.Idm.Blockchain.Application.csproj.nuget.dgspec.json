@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/david.grigoryan/source/repos/local/net/Synisys.Idm.BlockchainAudit/src/Synisys.Idm.Blockchain.Application/Synisys.Idm.Blockchain.Application.csproj": {}
+  },
+  "projects": {
+    "/Users/david.grigoryan/source/repos/local/net/Synisys.Idm.BlockchainAudit/src/Synisys.Idm.Blockchain.Application/Synisys.Idm.Blockchain.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/david.grigoryan/source/repos/local/net/Synisys.Idm.BlockchainAudit/src/Synisys.Idm.Blockchain.Application/Synisys.Idm.Blockchain.Application.csproj",
+        "projectName": "Synisys.Idm.Blockchain.Application",
+        "projectPath": "/Users/david.grigoryan/source/repos/local/net/Synisys.Idm.BlockchainAudit/src/Synisys.Idm.Blockchain.Application/Synisys.Idm.Blockchain.Application.csproj",
+        "packagesPath": "/Users/david.grigoryan/.nuget/packages/",
+        "outputPath": "/Users/david.grigoryan/source/repos/local/net/Synisys.Idm.BlockchainAudit/src/Synisys.Idm.Blockchain.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/david.grigoryan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100-preview.6.22352.1/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

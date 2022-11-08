@@ -1,0 +1,419 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/david.grigoryan/source/repos/local/net/CleanArchitectureMinimalAPi/src/Synisys.Idm.BlockchainAudit.Reader/Synisys.Idm.BlockchainAudit.Reader.csproj": {}
+  },
+  "projects": {
+    "/Users/david.grigoryan/source/repos/local/net/CleanArchitectureMinimalAPi/src/MinimalApiExtensions/MinimalApiExtensions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/david.grigoryan/source/repos/local/net/CleanArchitectureMinimalAPi/src/MinimalApiExtensions/MinimalApiExtensions.csproj",
+        "projectName": "MinimalApiExtensions",
+        "projectPath": "/Users/david.grigoryan/source/repos/local/net/CleanArchitectureMinimalAPi/src/MinimalApiExtensions/MinimalApiExtensions.csproj",
+        "packagesPath": "/Users/david.grigoryan/.nuget/packages/",
+        "outputPath": "/Users/david.grigoryan/source/repos/local/net/CleanArchitectureMinimalAPi/src/MinimalApiExtensions/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/david.grigoryan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.1.3, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100-preview.6.22352.1/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/david.grigoryan/source/repos/local/net/CleanArchitectureMinimalAPi/src/Synisys.Idm.BlockchainAudit.Application/Synisys.Idm.BlockchainAudit.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/david.grigoryan/source/repos/local/net/CleanArchitectureMinimalAPi/src/Synisys.Idm.BlockchainAudit.Application/Synisys.Idm.BlockchainAudit.Application.csproj",
+        "projectName": "Synisys.Idm.BlockchainAudit.Application",
+        "projectPath": "/Users/david.grigoryan/source/repos/local/net/CleanArchitectureMinimalAPi/src/Synisys.Idm.BlockchainAudit.Application/Synisys.Idm.BlockchainAudit.Application.csproj",
+        "packagesPath": "/Users/david.grigoryan/.nuget/packages/",
+        "outputPath": "/Users/david.grigoryan/source/repos/local/net/CleanArchitectureMinimalAPi/src/Synisys.Idm.BlockchainAudit.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/david.grigoryan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/david.grigoryan/source/repos/local/net/CleanArchitectureMinimalAPi/src/Synisys.Idm.BlockchainAudit.Common/Synisys.Idm.BlockchainAudit.Common.csproj": {
+                "projectPath": "/Users/david.grigoryan/source/repos/local/net/CleanArchitectureMinimalAPi/src/Synisys.Idm.BlockchainAudit.Common/Synisys.Idm.BlockchainAudit.Common.csproj"
+              },
+              "/Users/david.grigoryan/source/repos/local/net/CleanArchitectureMinimalAPi/src/Synisys.Idm.BlockchainAudit.Domain/Synisys.Idm.BlockchainAudit.Domain.csproj": {
+                "projectPath": "/Users/david.grigoryan/source/repos/local/net/CleanArchitectureMinimalAPi/src/Synisys.Idm.BlockchainAudit.Domain/Synisys.Idm.BlockchainAudit.Domain.csproj"
+              },
+              "/Users/david.grigoryan/source/repos/local/net/CleanArchitectureMinimalAPi/src/Synisys.Idm.BlockchainAudit.Store/Synisys.Idm.BlockchainAudit.Store.csproj": {
+                "projectPath": "/Users/david.grigoryan/source/repos/local/net/CleanArchitectureMinimalAPi/src/Synisys.Idm.BlockchainAudit.Store/Synisys.Idm.BlockchainAudit.Store.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0-preview.6.22324.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100-preview.6.22352.1/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/david.grigoryan/source/repos/local/net/CleanArchitectureMinimalAPi/src/Synisys.Idm.BlockchainAudit.Common/Synisys.Idm.BlockchainAudit.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/david.grigoryan/source/repos/local/net/CleanArchitectureMinimalAPi/src/Synisys.Idm.BlockchainAudit.Common/Synisys.Idm.BlockchainAudit.Common.csproj",
+        "projectName": "Synisys.Idm.BlockchainAudit.Common",
+        "projectPath": "/Users/david.grigoryan/source/repos/local/net/CleanArchitectureMinimalAPi/src/Synisys.Idm.BlockchainAudit.Common/Synisys.Idm.BlockchainAudit.Common.csproj",
+        "packagesPath": "/Users/david.grigoryan/.nuget/packages/",
+        "outputPath": "/Users/david.grigoryan/source/repos/local/net/CleanArchitectureMinimalAPi/src/Synisys.Idm.BlockchainAudit.Common/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/david.grigoryan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/david.grigoryan/source/repos/local/net/CleanArchitectureMinimalAPi/src/Synisys.Idm.BlockchainAudit.Domain/Synisys.Idm.BlockchainAudit.Domain.csproj": {
+                "projectPath": "/Users/david.grigoryan/source/repos/local/net/CleanArchitectureMinimalAPi/src/Synisys.Idm.BlockchainAudit.Domain/Synisys.Idm.BlockchainAudit.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100-preview.6.22352.1/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/david.grigoryan/source/repos/local/net/CleanArchitectureMinimalAPi/src/Synisys.Idm.BlockchainAudit.Domain/Synisys.Idm.BlockchainAudit.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/david.grigoryan/source/repos/local/net/CleanArchitectureMinimalAPi/src/Synisys.Idm.BlockchainAudit.Domain/Synisys.Idm.BlockchainAudit.Domain.csproj",
+        "projectName": "Synisys.Idm.BlockchainAudit.Domain",
+        "projectPath": "/Users/david.grigoryan/source/repos/local/net/CleanArchitectureMinimalAPi/src/Synisys.Idm.BlockchainAudit.Domain/Synisys.Idm.BlockchainAudit.Domain.csproj",
+        "packagesPath": "/Users/david.grigoryan/.nuget/packages/",
+        "outputPath": "/Users/david.grigoryan/source/repos/local/net/CleanArchitectureMinimalAPi/src/Synisys.Idm.BlockchainAudit.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/david.grigoryan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.17.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100-preview.6.22352.1/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/david.grigoryan/source/repos/local/net/CleanArchitectureMinimalAPi/src/Synisys.Idm.BlockchainAudit.Reader/Synisys.Idm.BlockchainAudit.Reader.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/david.grigoryan/source/repos/local/net/CleanArchitectureMinimalAPi/src/Synisys.Idm.BlockchainAudit.Reader/Synisys.Idm.BlockchainAudit.Reader.csproj",
+        "projectName": "Synisys.Idm.BlockchainAudit.Reader",
+        "projectPath": "/Users/david.grigoryan/source/repos/local/net/CleanArchitectureMinimalAPi/src/Synisys.Idm.BlockchainAudit.Reader/Synisys.Idm.BlockchainAudit.Reader.csproj",
+        "packagesPath": "/Users/david.grigoryan/.nuget/packages/",
+        "outputPath": "/Users/david.grigoryan/source/repos/local/net/CleanArchitectureMinimalAPi/src/Synisys.Idm.BlockchainAudit.Reader/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/david.grigoryan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/david.grigoryan/source/repos/local/net/CleanArchitectureMinimalAPi/src/MinimalApiExtensions/MinimalApiExtensions.csproj": {
+                "projectPath": "/Users/david.grigoryan/source/repos/local/net/CleanArchitectureMinimalAPi/src/MinimalApiExtensions/MinimalApiExtensions.csproj"
+              },
+              "/Users/david.grigoryan/source/repos/local/net/CleanArchitectureMinimalAPi/src/Synisys.Idm.BlockchainAudit.Application/Synisys.Idm.BlockchainAudit.Application.csproj": {
+                "projectPath": "/Users/david.grigoryan/source/repos/local/net/CleanArchitectureMinimalAPi/src/Synisys.Idm.BlockchainAudit.Application/Synisys.Idm.BlockchainAudit.Application.csproj"
+              },
+              "/Users/david.grigoryan/source/repos/local/net/CleanArchitectureMinimalAPi/src/Synisys.Idm.BlockchainAudit.Common/Synisys.Idm.BlockchainAudit.Common.csproj": {
+                "projectPath": "/Users/david.grigoryan/source/repos/local/net/CleanArchitectureMinimalAPi/src/Synisys.Idm.BlockchainAudit.Common/Synisys.Idm.BlockchainAudit.Common.csproj"
+              },
+              "/Users/david.grigoryan/source/repos/local/net/CleanArchitectureMinimalAPi/src/Synisys.Idm.BlockchainAudit.Domain/Synisys.Idm.BlockchainAudit.Domain.csproj": {
+                "projectPath": "/Users/david.grigoryan/source/repos/local/net/CleanArchitectureMinimalAPi/src/Synisys.Idm.BlockchainAudit.Domain/Synisys.Idm.BlockchainAudit.Domain.csproj"
+              },
+              "/Users/david.grigoryan/source/repos/local/net/CleanArchitectureMinimalAPi/src/Synisys.Idm.BlockchainAudit.Store/Synisys.Idm.BlockchainAudit.Store.csproj": {
+                "projectPath": "/Users/david.grigoryan/source/repos/local/net/CleanArchitectureMinimalAPi/src/Synisys.Idm.BlockchainAudit.Store/Synisys.Idm.BlockchainAudit.Store.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "Winton.Extensions.Configuration.Consul": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100-preview.6.22352.1/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/david.grigoryan/source/repos/local/net/CleanArchitectureMinimalAPi/src/Synisys.Idm.BlockchainAudit.Store/Synisys.Idm.BlockchainAudit.Store.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/david.grigoryan/source/repos/local/net/CleanArchitectureMinimalAPi/src/Synisys.Idm.BlockchainAudit.Store/Synisys.Idm.BlockchainAudit.Store.csproj",
+        "projectName": "Synisys.Idm.BlockchainAudit.Store",
+        "projectPath": "/Users/david.grigoryan/source/repos/local/net/CleanArchitectureMinimalAPi/src/Synisys.Idm.BlockchainAudit.Store/Synisys.Idm.BlockchainAudit.Store.csproj",
+        "packagesPath": "/Users/david.grigoryan/.nuget/packages/",
+        "outputPath": "/Users/david.grigoryan/source/repos/local/net/CleanArchitectureMinimalAPi/src/Synisys.Idm.BlockchainAudit.Store/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/david.grigoryan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/david.grigoryan/source/repos/local/net/CleanArchitectureMinimalAPi/src/Synisys.Idm.BlockchainAudit.Common/Synisys.Idm.BlockchainAudit.Common.csproj": {
+                "projectPath": "/Users/david.grigoryan/source/repos/local/net/CleanArchitectureMinimalAPi/src/Synisys.Idm.BlockchainAudit.Common/Synisys.Idm.BlockchainAudit.Common.csproj"
+              },
+              "/Users/david.grigoryan/source/repos/local/net/CleanArchitectureMinimalAPi/src/Synisys.Idm.BlockchainAudit.Domain/Synisys.Idm.BlockchainAudit.Domain.csproj": {
+                "projectPath": "/Users/david.grigoryan/source/repos/local/net/CleanArchitectureMinimalAPi/src/Synisys.Idm.BlockchainAudit.Domain/Synisys.Idm.BlockchainAudit.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0-preview.7.22375.6, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[7.0.0-preview.7.22375.6, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.17.1, )"
+            },
+            "System.Linq.Async": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100-preview.6.22352.1/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
