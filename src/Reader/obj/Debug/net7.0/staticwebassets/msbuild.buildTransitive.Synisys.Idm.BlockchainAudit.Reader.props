@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../buildMultiTargeting/Synisys.Idm.BlockchainAudit.Reader.props" />
-</Project>
