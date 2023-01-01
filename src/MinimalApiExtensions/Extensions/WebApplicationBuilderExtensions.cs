@@ -28,6 +28,6 @@ public static class WebApplicationBuilderExtensions
     {
         return app.MapPost(route, async (IMediator mediator, [AsParameters] TRequest request) => await mediator.Send(request))
             .Produces<TResponse>()
-            .AddRouteHandlerFilter<ValidationFilter<TRequest>>();
+            .AddEndpointFilter<ValidationFilter<TRequest>>();
     }
 }

@@ -22,7 +22,7 @@ public class MinimalEndpointBuilder
 
     public MinimalEndpointBuilder Validates<TRequest>() where TRequest : class
     {
-        _routeBuilder.AddRouteHandlerFilter<ValidationFilter<TRequest>>();
+        _routeBuilder.AddEndpointFilter<ValidationFilter<TRequest>>();
         return this;
     }
 }
